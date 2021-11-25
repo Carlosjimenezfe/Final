@@ -1,0 +1,9 @@
+Integrantes:
+. Ivan David Paez Coronell
+. Jesus Camilo Paez Puerta
+. Cristian Brochero
+
+App creada con React Native utilizando Expo
+https://github.com/IvanPaezCoronell/MapsApp
+
+Nota: La aplicación esta en un 35%, tuvimos problemas al intentar conectar con firebase para el Login e integrar Google Maps.
